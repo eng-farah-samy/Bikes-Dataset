@@ -17,6 +17,7 @@ gain deep insights into bike sales trends.
 1. Average Income of male and female and how it affects the Purchase.
 1. Have any other factors that can affect it?
 1. What is the Average Income and Age?
+<br/>
 ** With meticulous data cleaning and wrangling, I ensured our dataset was impeccable and free from errors and inconsistencies. **
 
 
