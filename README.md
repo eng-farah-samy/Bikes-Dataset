@@ -2,7 +2,7 @@
 For a long time, and as I was just starting in the Data analysis field, I decided to complete my first project with the help of [Alex the Alayst](https://www.youtube.com/watch?v=opJgMj1IUrc).<br />
 It was very beneficial and helped me a lot at the beginning of my journey. <br />
 Now, I've decided to redesign the dashboard for this project in Power BI <br />
-#### You can find the Data I used [Here](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx)
+#### You can find the Data I used > [Here](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx)
 ## The Goal was  :  
 gain deep insights into bike sales trends. 
 ## Steps :
